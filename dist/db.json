@@ -1,0 +1,37 @@
+[
+  {
+    "name": "sreeja",
+    "email": "mail2sreeja.cse@gmail.com",
+    "phone": "8099723232",
+    "githubLink": "www.github.com/sreeja3232",
+    "stopwatchTime": "00:00:06"
+  },
+  {
+    "name": "ananya",
+    "email": "anaya@gmail.com",
+    "phone": "93887782622",
+    "githubLink": "www.github.com/ananya",
+    "stopwatchTime": "00:00:03"
+  },
+  {
+    "name": "rahul",
+    "email": "rahul@gmail.com",
+    "phone": "934837890",
+    "githubLink": "www.github.com/rahul",
+    "stopwatchTime": "00:00:05"
+  },
+  {
+    "name": "saketh",
+    "email": "saketh@gmail.com",
+    "phone": "9437487902",
+    "githubLink": "www.github.com/saketh",
+    "stopwatchTime": "00:00:06"
+  },
+  {
+    "name": "George Brook",
+    "email": "george.brook@gmail.com",
+    "phone": "6543212345",
+    "githubLink": "www.github.com/george",
+    "stopwatchTime": "00:00:02"
+  }
+]
