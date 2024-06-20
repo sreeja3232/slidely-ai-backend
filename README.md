@@ -1,6 +1,3 @@
-Here is a detailed and polished README file for your backend server repository:
-
-```markdown
 # Slidely AI Backend
 
 Welcome to the Slidely AI Backend repository. This project contains the backend code for the Slidely AI Windows Desktop App. The backend is built using Express.js and TypeScript, and it uses a JSON file as a database to store submissions.
